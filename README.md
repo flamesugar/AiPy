@@ -4,9 +4,11 @@ A Python-based GUI application for viewing and analyzing photometry data.
 
 ## Features
 
-- Load and view .ppd files
+- AI-assitant analysis GUI !
+- support claude, gemini, gpt, deepseek API
+- Load and view .ppd files (more to come)
 - Signal processing capabilities (filtering, denoising)
-- support GPU acceleration 
+- support GPU acceleration !
 - Peak detection and analysis
 - PSTH (Peri-Stimulus Time Histogram) analysis
 - Interactive plotting with PyQtGraph
