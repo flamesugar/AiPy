@@ -1,4 +1,4 @@
-# Photometry Viewer
+# AiPy Photometry analyst
 
 A Python-based GUI application for viewing and analyzing photometry data.
 
